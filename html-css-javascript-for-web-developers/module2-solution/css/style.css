@@ -49,6 +49,7 @@ section {
 @media (max-width: 767px) {
 	section{
 		clear: both;
+		width: 100%;
 	}
 }
 
