@@ -16,21 +16,18 @@ section {
 	float: left;
 	border: 1px solid;
 	background-color: #999999;
+	position: relative;
 }
 
 .title {
-	float: right;
 	border: 1px solid;
 	width: 100px;
 	height: 20 px;
 	text-align: center;
 	padding: 5px;
-	margin-right: -11px;
-	margin-top: -11px;
-}
-
-.text {
-    clear: both;
+	position: absolute;
+	top: -1px;
+	right: -1px;
 }
 
 .chicken .title {
