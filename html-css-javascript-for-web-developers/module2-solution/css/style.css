@@ -9,4 +9,16 @@ h1 {
 
 div {
 	width: 33%;
+	margin: 10px;
+	padding: 10px;
 }
+
+.title {
+	float: right;
+}
+
+.text {
+    clear: both;
+}
+
+
