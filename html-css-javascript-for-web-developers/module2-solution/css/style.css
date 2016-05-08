@@ -1,6 +1,4 @@
-* {
-	box-sizing: border-box;
-}
+
 
 h1 {
     font-size: 175%;
@@ -28,6 +26,7 @@ div {
 	width: 100px;
 	height: 20 px;
 	text-align: center;
+	padding: 5px;
 }
 
 .text {
