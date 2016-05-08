@@ -59,10 +59,17 @@ section {
 
 @media (min-width: 768px) and (max-width: 991px){
 	section.sushi {
-		width: 98%;
+		width: 100%;
 	}
 	
-	section.chicken, section.beef {
-		width: 48%
+	section.chicken{
+		width: 50%;
+		float: left;
+		margin: 0px 5px 0px 5px;
+	}
+	section.beef {
+		width: 50%;
+		float:right;
+		margin: 0px 5px 0px 5px;
 	}
 }
