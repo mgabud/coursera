@@ -26,14 +26,14 @@ div {
     clear: both;
 }
 
-.chicken {
+.chicken.title {
 	background-color: #d59898;
 }
 
-.beef {
+.beef.title {
 	background-color: #c14543;
 }
 
-.sushi {
+.sushi.title {
 	background-color: #e5d198;
 }
