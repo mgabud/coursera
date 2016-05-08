@@ -15,7 +15,7 @@ p {
 
 section {
 	width: 31%;
-	margin: 1% 1% 1% 1%;
+	margin: 2% 1% 2% 1%;
 	padding: 10px;
 	float: left;
 	border: 1px solid;
@@ -61,7 +61,7 @@ section {
 
 @media (min-width: 768px) and (max-width: 991px){
 	section.sushi {
-		width: 96%;
+		width: 98%;
 	}
 	
 	section.chicken{
