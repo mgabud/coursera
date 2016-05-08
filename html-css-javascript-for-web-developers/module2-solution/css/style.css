@@ -45,3 +45,15 @@ section {
 .sushi .title {
 	background-color: #e5d198;
 }
+
+@media (max-width: 767px) {
+	section.chicken, section.beef {
+		width: 50%
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+	section.sushi {
+		width: 100%;
+	}
+}
