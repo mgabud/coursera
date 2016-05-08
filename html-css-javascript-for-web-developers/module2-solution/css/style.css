@@ -52,8 +52,6 @@ section {
 
 @media (max-width: 767px) {
 	section{
-		float: none;
-		clear: both;
 		width: 100%;
 		margin: 10px 0px 10px 0px;
 	}
