@@ -34,6 +34,14 @@ section {
 	margin-top: 20px;
 }
 
-.chicken .title, .beef .title, .sushi .title {
+.chicken .title {
 	background-color: #d59898;
+}
+
+.beef .title {
+	background-color: #c14543;
+}
+
+.sushi .title {
+	background-color: #e5d198;
 }
