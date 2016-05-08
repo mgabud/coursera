@@ -4,7 +4,7 @@
 
 h1 {
     font-size: 175%;
-    align-content: center;
+    text-align: center;
 }
 
 p {
@@ -25,7 +25,8 @@ div {
 .title {
 	float: right;
 	border: 1px solid;
-	
+	width: 100px;
+	height: 20 px;
 }
 
 .text {
