@@ -63,13 +63,13 @@ section {
 	}
 	
 	section.chicken{
-		width: 50%;
+		width: 49%;
 		float: left;
-		margin: 0px 5px 0px 5px;
+		margin: 5px 0px 5px 0px;
 	}
 	section.beef {
-		width: 50%;
+		width: 49%;
 		float:right;
-		margin: 0px 5px 0px 5px;
+		margin: 5px 0px 5px 0px;
 	}
 }
