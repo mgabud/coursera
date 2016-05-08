@@ -54,12 +54,14 @@ section {
 	section{
 		clear: both;
 		width: 100%;
+		margin: 5px 0px 5px 0px;
 	}
 }
 
 @media (min-width: 768px) and (max-width: 991px){
 	section.sushi {
 		width: 100%;
+		margin: 5px 0px 5px 0px;
 	}
 	
 	section.chicken{
