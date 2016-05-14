@@ -1,0 +1,27 @@
+.food {
+	background-color: #999999;
+	margin: 10px;
+	padding: 10px; 
+}
+
+
+.navbar-nav > li {
+	border-bottom: solid 1px;
+	padding: 0;
+}
+
+#header-nav {
+	border-radius: 0px;
+}
+
+.menu {
+	margin: 0px -15px 0px -15px;
+}
+
+.navbar {background-color: #F0F0F0;}
+
+.navbar-default .navbar-nav > li > a:hover, 
+.navbar-default .navbar-nav > li > a:focus {background-color: #F0F0F0;}
+
+@media only screen and (max-width: 766px) {
+.collapsing, .in {background-color: #E5E5E5;}
